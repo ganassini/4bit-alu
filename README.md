@@ -1,6 +1,6 @@
 # 4-bit Arithmetic Logical Unit
 
-##### 4-bit Arithmetic Logic Unit architected for the EP2C35F672C6 FPGA device for "Tećnicas Digitais" course at Federal University of Pelotas
+##### 4-bit Arithmetic Logic Unit architected for the EP2C35F672C6 FPGA device for "Tećnicas Digitais" course at Federal University of Pelotas made by Guilherme Ganassini, Gustavo Domenech and Lorenzo Baldissera
 ----------------------------------------------------------------------------------
 
 ## Architecture
