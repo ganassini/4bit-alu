@@ -1,7 +1,6 @@
 # 4-bit Arithmetic Logical Unit
 
 ##### 4-bit Arithmetic Logic Unit architected for the EP2C35F672C6 FPGA device for "Tećnicas Digitais" course at Federal University of Pelotas made by Guilherme Ganassini, Gustavo Domenech and Lorenzo Baldissera
-----------------------------------------------------------------------------------
 
 ## Architecture
 
@@ -33,12 +32,9 @@ Selects one of the input signals based on the overflow condition (sinaloverflow)
 #### 7-Segment Display Converter (seg7):
 Converts the selected operation result (entrada_seg7) into 7-segment display signals for visualization. Detects zero and negative outputs.
 
-----------------------------------------------------------------------------------
 ## EP2C35F672C6 Input/Output map
 
 ![EP2C35F672C6](resources/boardMap.png)
-
-----------------------------------------------------------------------------------
 
 ## Waveform results
 
